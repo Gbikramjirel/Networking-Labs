@@ -1,0 +1,16 @@
+# OS noise
+Thumbs.db
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Archives and temp
+*.zip
+*.tmp
+*.bak
+
+# Packet Tracer autosave variants
+*.pka
+*.pks
